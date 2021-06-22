@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Djona\\OneDrive\\Documentos\\Projects\\App Transf Bancaria\\App Transf Bancaria\\App Transf Bancaria.csproj",
+      "projectUniqueName": "C:\\Users\\Djona\\OneDrive\\Documentos\\Projects\\App Transf Bancaria\\Sistema-Transferencia-Bancaria-CSharp\\App Transf Bancaria\\App Transf Bancaria.csproj",
       "projectName": "App Transf Bancaria",
-      "projectPath": "C:\\Users\\Djona\\OneDrive\\Documentos\\Projects\\App Transf Bancaria\\App Transf Bancaria\\App Transf Bancaria.csproj",
+      "projectPath": "C:\\Users\\Djona\\OneDrive\\Documentos\\Projects\\App Transf Bancaria\\Sistema-Transferencia-Bancaria-CSharp\\App Transf Bancaria\\App Transf Bancaria.csproj",
       "packagesPath": "C:\\Users\\Djona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Djona\\OneDrive\\Documentos\\Projects\\App Transf Bancaria\\App Transf Bancaria\\obj\\",
+      "outputPath": "C:\\Users\\Djona\\OneDrive\\Documentos\\Projects\\App Transf Bancaria\\Sistema-Transferencia-Bancaria-CSharp\\App Transf Bancaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
